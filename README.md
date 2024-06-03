@@ -14,17 +14,11 @@ This is a RESTful API for managing recipes, ingredients, categories, and their a
    virenv envname
    source venv/bin/activate
    ```
-3. **Install the dependencies:**
-   ```sh
-   pip install -r requirements.txt
-   ```
-
-4. **Run the database migrations:**
+3. **Run the database migrations:**
    ```sh
    python manage.py migrate
    ```
-
-5. **Start the development server:**
+4. **Start the development server:**
    ```sh
    python manage.py runserver
    ```
