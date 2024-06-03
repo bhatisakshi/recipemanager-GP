@@ -32,7 +32,7 @@ This is a RESTful API for managing recipes, ingredients, categories, and their a
 
 ## Usage
 
-Once the server is running, you can interact with the API using a tool like curl, Postman, or your web browser.
+Once the server is running, you can interact with the API using a tool like curl, Postman, or your web browser. <br><br>
 
 
 ## API Endpoints
